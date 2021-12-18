@@ -5,5 +5,4 @@ Olá! Seja bem vindo ao meu livro de receitas, essa é a lista das pequenas rece
 
 
    - Macarrão de Panela
-
-     
+   - Salada  de alface tomate
